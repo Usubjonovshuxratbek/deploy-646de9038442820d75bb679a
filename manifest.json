@@ -1,8 +1,8 @@
 {
-    "name": "Dev'Coffee",
-    "short_name": "DevCoffee",
+    "name": "Jaloliddin Ahmadaliyev",
+    "short_name": "JaloliddinAhmadaliyev",
     "start_url": "index.html",
-    "display": "standalone",
+    "display": "Jaloliddin Ahmadaliyev albom",
     "background_color": "#fdfdfd",
     "theme_color": "#db4938",
     "orientation": "portrait-primary",
